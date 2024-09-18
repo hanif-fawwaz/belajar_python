@@ -11,7 +11,6 @@ Repository ini berisi materi pembelajaran Python yang ditujukan untuk pemula. An
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
 - [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Pendahuluan
 
@@ -70,7 +69,3 @@ Kontribusi sangat terbuka! Jika Anda ingin menambahkan fitur atau memperbaiki bu
 3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur baru'`).
 4. Push ke branch (`git push origin fitur-baru`).
 5. Buat Pull Request.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
